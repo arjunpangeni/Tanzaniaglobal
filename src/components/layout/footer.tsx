@@ -13,9 +13,12 @@ const exploreLinks = [
   { href: "/about", key: "about" as const },
 ];
 
-const toolLinks = [
+const toolLinks: Array<
+  | { href: string; label: string }
+  | { href: string; key: "appointment" }
+> = [
   { href: "/resources/ielts-calculator", label: "IELTS Calculator" },
-  { href: "/appointment", key: "appointment" as const },
+  { href: "/appointment", key: "appointment" },
 ];
 
 function FooterHeading({ children }: { children: React.ReactNode }) {
