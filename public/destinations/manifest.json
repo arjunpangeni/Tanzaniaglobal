@@ -1,0 +1,68 @@
+{
+  "united-kingdom": [
+    "/destinations/united-kingdom-1.jpg",
+    "/destinations/united-kingdom-2.jpg",
+    "/destinations/united-kingdom-3.jpg"
+  ],
+  "united-states": [
+    "",
+    "/destinations/united-states-2.jpg",
+    "/destinations/united-states-3.jpg"
+  ],
+  "canada": [
+    "/destinations/canada-1.jpg",
+    "/destinations/canada-2.jpg",
+    "/destinations/canada-3.jpg"
+  ],
+  "australia": [
+    "/destinations/australia-1.jpg",
+    "/destinations/australia-2.jpg",
+    "/destinations/australia-3.jpg"
+  ],
+  "india": [
+    "/destinations/india-1.jpg",
+    "/destinations/india-2.jpg",
+    "/destinations/india-3.jpg",
+    "/destinations/india-4.jpg"
+  ],
+  "china": [
+    "/destinations/china-1.jpg",
+    "/destinations/china-2.jpg",
+    "/destinations/china-3.jpg"
+  ],
+  "malaysia": [
+    "/destinations/malaysia-1.jpg",
+    "/destinations/malaysia-2.jpg",
+    "/destinations/malaysia-3.jpg"
+  ],
+  "germany": [
+    "/destinations/germany-1.jpg",
+    "/destinations/germany-2.jpg",
+    "/destinations/germany-3.jpg"
+  ],
+  "new-zealand": [
+    "",
+    "/destinations/new-zealand-2.jpg",
+    "/destinations/new-zealand-3.jpg"
+  ],
+  "ireland": [
+    "/destinations/ireland-1.jpg",
+    "/destinations/ireland-2.jpg",
+    "/destinations/ireland-3.jpg"
+  ],
+  "netherlands": [
+    "/destinations/netherlands-1.jpg",
+    "/destinations/netherlands-2.jpg",
+    "/destinations/netherlands-3.jpg"
+  ],
+  "france": [
+    "/destinations/france-1.jpg",
+    "/destinations/france-2.jpg",
+    "/destinations/france-3.jpg"
+  ],
+  "japan": [
+    "/destinations/japan-1.jpg",
+    "/destinations/japan-2.jpg",
+    "/destinations/japan-3.jpg"
+  ]
+}
