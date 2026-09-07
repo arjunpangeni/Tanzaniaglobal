@@ -175,8 +175,10 @@ const applyParticleEffect = (
       p.spinVal = p.spinVal + p.spinSpeed
 
       if (
-        p.top >=
-        Math.max(window.innerHeight, document.body.clientHeight) + p.size
+        p.top >= window.innerHeight + p.size ||
+        p.top < -p.size * 2 ||
+        p.left < -p.size * 2 ||
+        p.left > window.innerWidth + p.size
       ) {
         particles = particles.filter((o) => o !== p)
         p.element.remove()
@@ -196,11 +198,13 @@ const applyParticleEffect = (
   }
 
   let animationFrame: number | undefined
+  let disposed = false
 
   let lastParticleTimestamp = 0
   const particleGenerationDelay = 30
 
   function loop() {
+    if (disposed) return
     const currentTime = performance.now()
     if (
       autoAddParticle &&
@@ -212,7 +216,12 @@ const applyParticleEffect = (
     }
 
     refreshParticles()
-    animationFrame = requestAnimationFrame(loop)
+
+    if (autoAddParticle || particles.length > 0) {
+      animationFrame = requestAnimationFrame(loop)
+    } else {
+      animationFrame = undefined
+    }
   }
 
   loop()
@@ -236,10 +245,27 @@ const applyParticleEffect = (
   const tapHandler = (e: MouseEvent | TouchEvent) => {
     updateMousePosition(e)
     autoAddParticle = true
+    if (!animationFrame) loop()
   }
 
   const disableAutoAddParticle = () => {
     autoAddParticle = false
+  }
+
+  const clearEffect = () => {
+    if (disposed) return
+    disposed = true
+    autoAddParticle = false
+    if (animationFrame) {
+      cancelAnimationFrame(animationFrame)
+      animationFrame = undefined
+    }
+    particles.forEach((p) => p.element.remove())
+    particles = []
+    if (--instanceCounter <= 0) {
+      instanceCounter = 0
+      container.remove()
+    }
   }
 
   element.addEventListener(move, updateMousePosition, { passive: true })
@@ -248,23 +274,21 @@ const applyParticleEffect = (
   element.addEventListener("mouseleave", disableAutoAddParticle, {
     passive: true,
   })
+  document.addEventListener(tapEnd, disableAutoAddParticle, { passive: true })
+  document.addEventListener("pointerup", disableAutoAddParticle, { passive: true })
+  window.addEventListener("blur", disableAutoAddParticle)
+  window.addEventListener("pagehide", clearEffect)
 
   return () => {
     element.removeEventListener(move, updateMousePosition)
     element.removeEventListener(tap, tapHandler)
     element.removeEventListener(tapEnd, disableAutoAddParticle)
     element.removeEventListener("mouseleave", disableAutoAddParticle)
-
-    const interval = setInterval(() => {
-      if (animationFrame && particles.length === 0) {
-        cancelAnimationFrame(animationFrame)
-        clearInterval(interval)
-
-        if (--instanceCounter === 0) {
-          container.remove()
-        }
-      }
-    }, 500)
+    document.removeEventListener(tapEnd, disableAutoAddParticle)
+    document.removeEventListener("pointerup", disableAutoAddParticle)
+    window.removeEventListener("blur", disableAutoAddParticle)
+    window.removeEventListener("pagehide", clearEffect)
+    clearEffect()
   }
 }
 
