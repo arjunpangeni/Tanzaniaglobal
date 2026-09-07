@@ -9,7 +9,7 @@ export const services = [
     },
     body: {
       en: "We sit with you and your family in Dar es Salaam — or on a video call — and map what is realistic. No pressure to pick a country on day one. We look at Form Six or diploma results, English readiness, and how much support you will need abroad.",
-      sw: "Tunakaa nawe na familia yako Dar es Salaam — au kupitia video — na kupanga kilicho halisi. Hakuna shinikizo la kuchagua nchi siku ya kwanza.",
+      sw: "Tunakaa nawe na familia yako Dar es Salaam — au kwa video — na kupanga kilicho halisi. Hakuna shinikizo la kuchagua nchi siku ya kwanza. Tunaangalia matokeo ya Kidato cha Sita au stashahada, utayari wa Kiingereza, na msaada utakaohitaji nje ya nchi.",
     },
     included: {
       en: [
@@ -94,7 +94,7 @@ export const services = [
     },
     included: {
       en: ["Field-of-study matching", "Ranking and city fit", "Tuition in USD and TZS", "Intake calendar"],
-      sw: ["Ulinganishaji wa fani", "Nafasi ya chuo na mji", "Ada kwa USD na TZS", "Kalenda ya ulaji"],
+      sw: ["Ulinganishaji wa fani", "Nafasi ya chuo na mji", "Ada kwa USD na TZS", "Kalenda ya kujiunga"],
     },
   },
   {

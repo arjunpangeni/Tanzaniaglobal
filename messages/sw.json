@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Tanzania Global Ltd — Masomo nje ya nchi kutoka Dar es Salaam",
-    "description": "Ushauri wa elimu Dar es Salaam. Uchaguzi wa vyuo, maombi, viza, na msaada wa kufika — kwa Kiingereza na Kiswahili."
+    "title": "Tanzania Global Ltd — Masomo nje ya nchi kutoka Tanzania na Uingereza",
+    "description": "Ushauri wa elimu kutoka Tanzania na Uingereza. Uchaguzi wa vyuo, maombi, viza, na msaada wa kufika — kwa Kiingereza na Kiswahili."
   },
   "nav": {
     "home": "Nyumbani",
@@ -11,60 +11,60 @@
     "about": "Kuhusu sisi",
     "contact": "Wasiliana",
     "appointment": "Ushauri",
-    "destinations": "Nchi"
+    "destinations": "Nchi za kusomea"
   },
   "cta": {
     "getStarted": "Anza sasa",
     "book": "Panga ushauri",
-    "talk": "Ongea na mshauri kuhusu hii",
+    "talk": "Ongea na mshauri kuhusu hili",
     "counselUniversity": "Pata ushauri wa chuo hiki",
     "startChat": "Anza gumzo",
-    "viewDetails": "Angalia undani",
-    "exploreServices": "Chunguza huduma",
+    "viewDetails": "Angalia maelezo",
+    "exploreServices": "Tazama huduma",
     "readMore": "Soma makala"
   },
   "whatsapp": {
     "title": "Ongea na Tanzania Global",
-    "body": "Habari. Uliza kuhusu nchi, nyaraka, au ziara Dar es Salaam, Reading, au mtandaoni.",
+    "body": "Habari. Unaweza kuuliza kuhusu nchi, nyaraka, au ziara Dar es Salaam, Reading, au mtandaoni.",
     "greeting": "Habari, ningependa ushauri kutoka Tanzania Global Ltd."
   },
   "home": {
     "heroTitle": "Ushauri unaoaminika wa masomo nje ya nchi — udahili, maandalizi ya mitihani, na mwongozo wa vyuo duniani",
     "heroBody": "Kutoka mazungumzo ya kwanza hadi chuoni — tunakusaidia kuingia, kujiandaa, na kufika.",
-    "destinationsTitle": "Nchi tunazoweka wanafunzi",
-    "statsTitle": "Tunaendesha faili za wanafunzi wa Kitanzania kwa utulivu tangu ofisi ya kwanza.",
+    "destinationsTitle": "Nchi tunazowapeleka wanafunzi",
+    "statsTitle": "Tumeongoza wanafunzi wa Kitanzania tangu ofisi ya kwanza kufunguliwa.",
     "years": "Miaka ya ushauri",
     "students": "Wanafunzi waliowekwa",
     "partners": "Vyuo washirika",
     "destinations": "Nchi",
-    "servicesTitle": "Tunachofanya hasa",
-    "servicesBody": "Huduma nane, faili moja. Huhitaji zote — tutakwambia.",
-    "whyTitle": "Kwanini familia zinabaki",
+    "servicesTitle": "Tunachofanya kweli",
+    "servicesBody": "Huduma nane, faili moja. Huhitaji zote — tutakwambia wazi.",
+    "whyTitle": "Kwanini familia zinabaki nasi",
     "why1t": "Washauri wanaozungumza Kiswahili",
-    "why1d": "Wazazi hawana haja ya kutafsiri maswali magumu.",
+    "why1d": "Wazazi hawahitaji kutafsiri maswali magumu.",
     "why2t": "Mtandao unaojumuisha Asia",
-    "why2d": "India, China, na Malaysia ziko kando ya Uingereza na Kanada — ndivyo wanafunzi wa Kitanzania husafiri.",
+    "why2d": "India, China, na Malaysia ziko pamoja na Uingereza na Kanada — ndivyo wanafunzi wa Kitanzania husafiri.",
     "why3t": "Faili za viza, si ofa tu",
-    "why3d": "Barua ya udahili si tiketi. Tunachukulia faili la ubalozi kama sehemu ya kazi.",
+    "why3d": "Barua ya udahili si tiketi. Faili la ubalozi ni sehemu ya kazi yetu.",
     "why4t": "Orodha fupi binafsi",
-    "why4d": "Vyuo viwili au vitatu, si PDF ya nembo arobaini.",
-    "why5t": "Uwazi wa ufadhili",
+    "why4d": "Vyuo viwili au vitatu, si PDF yenye nembo arobaini.",
+    "why5t": "Uwazi kuhusu ufadhili",
     "why5d": "Tunaonyesha tuzo za sehemu na gharama za maisha kwa TZS.",
     "why6t": "Msaada baada ya kufika",
-    "why6d": "Tunakaa nawe baada ya kufika — kujiweka, kazi za wiki ya kwanza, na mshauri unayeweza kumfikia.",
-    "howTitle": "Jinsi inavyofanya kazi",
+    "why6d": "Tunakaa nawe baada ya kufika — kukaa vizuri, kazi za wiki ya kwanza, na mshauri unayeweza kumfikia.",
+    "howTitle": "Jinsi tunavyofanya kazi",
     "how1t": "Ushauri wa bure",
-    "how1d": "Matokeo, bajeti, na orodha ya kwanza ya nchi.",
+    "how1d": "Matokeo, bajeti, na orodha ya kwanza ya nchi kwa uaminifu.",
     "how2t": "Orodha fupi ya vyuo",
     "how2d": "Programu mbili au tatu zinazofaa faili uliyonayo.",
     "how3t": "Maombi na nyaraka",
-    "how3d": "Portal, SOP, na orodha kamili.",
+    "how3d": "Tovuti za maombi, taarifa binafsi, na orodha kamili.",
     "how4t": "Viza na kuondoka",
     "how4d": "Mazoezi ya mahojiano, tiketi, na nani atakukutana.",
     "storiesTitle": "Wanafunzi walioondoka JNIA",
-    "partnersTitle": "Vyuo tunavyoweka wanafunzi",
+    "partnersTitle": "Vyuo tunavyowapeleka wanafunzi",
     "faqTitle": "Maswali familia zinatuuliza",
-    "ctaTitle": "Lete matokeo yako. Sisi tulete mpango.",
+    "ctaTitle": "Lete matokeo yako. Sisi tunaleta mpango.",
     "ctaBody": "Tukutane Tanzania au Uingereza, au mtandaoni."
   },
   "footer": {
@@ -79,13 +79,13 @@
   },
   "servicesPage": {
     "title": "Huduma",
-    "subtitle": "Msaada kamili, bei na wigo vinaandikwa kabla hatujaanza faili.",
+    "subtitle": "Msaada kutoka mwanzo hadi mwisho. Bei na wigo vinaelezwa kabla hatujaanza faili.",
     "included": "Kinachojumuishwa",
     "jumpTo": "Nenda kwenye huduma"
   },
   "universitiesPage": {
     "title": "Vyuo na washirika",
-    "subtitle": "Chuja vyuo tunavyowasilisha. Takwimu ni mfano hadi kandarasi zenu zifike.",
+    "subtitle": "Chuja vyuo tunavyowasilisha maombi. Takwimu ni mwongozo hadi kandarasi zikamilike.",
     "search": "Tafuta kwa jina",
     "country": "Nchi",
     "ranking": "Nafasi",
@@ -96,12 +96,12 @@
     "programs": "Programu maarufu",
     "requirements": "Mahitaji ya maombi",
     "scholarships": "Ufadhili unaohusiana",
-    "empty": "Hakuna chuo kinacholingana. Futa vichujio au ongea na mshauri.",
+    "empty": "Hakuna chuo kinacholingana na vichujio hivyo. Futa vichujio au ongea na mshauri.",
     "showing": "Inaonyesha {from}–{to} kati ya {total}"
   },
   "resources": {
     "title": "Rasilimali",
-    "subtitle": "Zana na maeledi kwa waombaji wa Kitanzania.",
+    "subtitle": "Zana na miongozo kwa waombaji wa Kitanzania.",
     "blog": "Kutoka dawati",
     "ielts": "Kikokotoo cha IELTS",
     "ieltsTitle": "Alama ya jumla ya IELTS",
@@ -123,7 +123,7 @@
   },
   "contact": {
     "title": "Anza sasa",
-    "subtitle": "Tuma hojaji; tunajibu ndani ya siku moja ya kazi. Kupanga siku Dar es Salaam, Reading, au mtandaoni, panga ushauri.",
+    "subtitle": "Tuma ombi; tunajibu ndani ya siku moja ya kazi. Kupanga siku Dar es Salaam, Reading, au mtandaoni, panga ushauri.",
     "bookHint": "Panga siku ya ushauri",
     "name": "Jina kamili",
     "email": "Barua pepe",
@@ -131,24 +131,24 @@
     "destination": "Nchi unayopendelea",
     "level": "Kiwango cha masomo",
     "message": "Ujumbe",
-    "submit": "Tuma hojaji",
+    "submit": "Tuma ombi",
     "sending": "Inatuma…",
-    "success": "Imepokelewa. Mshauri ataandika hivi karibuni.",
+    "success": "Tumepokea. Mshauri ataandika hivi karibuni.",
     "error": "Hatukuweza kuhifadhi. Tutumie WhatsApp au jaribu tena.",
     "captcha": "Tafadhali kamilisha captcha, kisha jaribu tena.",
     "office": "Tukutane",
     "hours": "Tunajibu ndani ya siku moja ya kazi.",
-    "aboutUniversity": "Hojaji kuhusu {name}",
-    "aboutService": "Hojaji kuhusu {name}"
+    "aboutUniversity": "Ombi kuhusu {name}",
+    "aboutService": "Ombi kuhusu {name}"
   },
   "appointment": {
-    "title": "Ushauri na hojaji",
-    "subtitle": "Panga nafasi ya siku ya kazi, ofisini au mtandaoni, kwa ushauri au hojaji nyingine.",
+    "title": "Ushauri na maulizo",
+    "subtitle": "Panga nafasi ya siku ya kazi, ofisini au mtandaoni, kwa ushauri au swali lingine.",
     "date": "Tarehe",
     "slot": "Muda",
     "purpose": "Unahitaji nini",
     "purposeCounselling": "Ushauri",
-    "purposeInquiry": "Hojaji nyingine",
+    "purposeInquiry": "Swali lingine",
     "mode": "Jinsi ya kukutana",
     "modeInPerson": "Ana kwa ana",
     "modeOnline": "Mtandaoni",
@@ -158,8 +158,8 @@
     "locationReading": "Reading",
     "captcha": "Kamilisha captcha, kisha jaribu tena.",
     "submit": "Omba nafasi hii",
-    "success": "Kipindi chako kinasubiri. Tutathibitisha kwa WhatsApp, pamoja na kiungo cha video ukichagua mtandaoni.",
-    "taken": "Nafasi hiyo imechukuliwa. Chagua nyingine."
+    "success": "Ombi lako linasubiri. Tutathibitisha kwa WhatsApp, pamoja na kiungo cha video ukichagua mtandaoni.",
+    "taken": "Nafasi hiyo imeshachukuliwa. Chagua nyingine."
   },
   "legal": {
     "privacyTitle": "Faragha",
@@ -171,7 +171,7 @@
     "dashboard": "Dashibodi",
     "posts": "Makala",
     "universities": "Vyuo",
-    "enquiries": "Hojaji",
+    "enquiries": "Maulizo",
     "appointments": "Miadi",
     "signOut": "Toka",
     "new": "Mpya"
@@ -182,17 +182,17 @@
     "situation": "Hali halisi",
     "opportunities": "Fursa",
     "life": "Maisha ya mwanafunzi",
-    "watch": "Ya kuangalia",
-    "tuition": "Bendi ya ada",
+    "watch": "Mambo ya kuzingatia",
+    "tuition": "Kiwango cha ada",
     "fields": "Fani maarufu",
-    "intakes": "Ulaji mkuu",
+    "intakes": "Vipindi vya kujiunga",
     "language": "Lugha ya darasa",
     "campuses": "Vyuo tunavyowasilisha",
-    "allCampuses": "Yote {country}",
+    "allCampuses": "Vyuo vyote nchini {country}",
     "more": "Nchi nyingine",
     "photos": "Muonekano wa {country}"
   },
   "common": {
-    "swNote": "Makala ndefu yanabaki kwa Kiingereza katika toleo hili la kwanza."
+    "swNote": "Makala ndefu bado zipo kwa Kiingereza katika toleo hili la kwanza."
   }
 }

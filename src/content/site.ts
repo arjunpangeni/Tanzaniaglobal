@@ -4,11 +4,11 @@ export const site = {
   legalName: "Tanzania Global Ltd",
   tagline: {
     en: "Study abroad guidance from Dar es Salaam to the world.",
-    sw: "Mwongozo wa masomo nje ya nchi kutoka Dar es Salaam kwenda ulimwenguni.",
+    sw: "Mwongozo wa masomo nje ya nchi kutoka Tanzania na Uingereza.",
   },
   description: {
     en: "Tanzania Global Ltd is a Dar es Salaam educational consultancy helping students choose universities, prepare applications, and arrive ready — in English and Swahili.",
-    sw: "Tanzania Global Ltd ni ushauri wa elimu kutoka Dar es Salaam unaosaidia wanafunzi kuchagua vyuo, kuandaa maombi, na kufika wakiwa tayari — kwa Kiingereza na Kiswahili.",
+    sw: "Tanzania Global Ltd ni ushauri wa elimu kutoka Tanzania na Uingereza unaosaidia wanafunzi kuchagua vyuo, kuandaa maombi, na kufika wakiwa tayari — kwa Kiingereza na Kiswahili.",
   },
   email: "hello@tanzaniaglobal.co.tz",
   phone: "+255 700 000 000",

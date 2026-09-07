@@ -2,11 +2,11 @@ export const faqs = [
   {
     q: {
       en: "Who are you and what do you do?",
-      sw: "Ninyi nani na mnafanya nini?",
+      sw: "Ninyi ni nani na mnafanya nini?",
     },
     a: {
       en: "Tanzania Global Ltd is a study-abroad consultancy with offices in Dar es Salaam and Reading, and the same counselling online. We help with career guidance, university shortlists, applications, test registration and preparation, visas, and support after you land.",
-      sw: "Tanzania Global Ltd ni ushauri wa masomo nje ya nchi, na ofisi Dar es Salaam na Reading, na ushauri uleule mtandaoni. Tunasaidia mwongozo wa kazi, orodha fupi ya vyuo, maombi, usajili na maandalizi ya mitihani, viza, na msaada baada ya kufika.",
+      sw: "Tanzania Global Ltd ni ushauri wa masomo nje ya nchi, wenye ofisi Dar es Salaam na Reading, na ushauri uleule mtandaoni. Tunasaidia mwongozo wa kazi, orodha fupi ya vyuo, maombi, usajili na maandalizi ya mitihani, viza, na msaada baada ya kufika.",
     },
   },
   {
@@ -42,7 +42,7 @@ export const faqs = [
   {
     q: {
       en: "What if I do not know which course to study?",
-      sw: "Nikijua sio kozi gani nisome?",
+      sw: "Nisipojua kozi gani nisome?",
     },
     a: {
       en: "That is a normal first meeting. We look at your results, strengths, and budget, then suggest a short list — not a career lecture. You leave with two or three honest options.",
@@ -82,7 +82,7 @@ export const faqs = [
   {
     q: {
       en: "Will you write my personal statement for me?",
-      sw: "Je, mtaandiika statement yangu binafsi?",
+      sw: "Je, mtaandika taarifa yangu binafsi?",
     },
     a: {
       en: "No. The story has to be yours. We give a structure, edit with you, and stop when the draft is clear enough to submit.",
@@ -96,7 +96,7 @@ export const faqs = [
     },
     a: {
       en: "Yes. An offer is not a ticket. We treat the visa file as part of the job, and we stay reachable after you land for settling in and first-week tasks.",
-      sw: "Ndiyo. Ofa si tiketi. Tunachukulia faili la viza kama sehemu ya kazi, na tunabaki kufikiwa baada ya kufika kwa kujiweka na kazi za wiki ya kwanza.",
+      sw: "Ndiyo. Ofa si tiketi. Tunachukulia faili la viza kama sehemu ya kazi, na tunabaki kufikiwa baada ya kufika ili ukae vizuri na ukamilishe kazi za wiki ya kwanza.",
     },
   },
 ] as const;

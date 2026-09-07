@@ -108,7 +108,7 @@ export const destinationGuides: Record<DestinationSlug, DestinationGuide> = {
     },
     watch: {
       en: "OPT is not a green card, and the H-1B lottery is a separate fight. Budget 10–14 months for tests, applications, and the embassy appointment before August intake.",
-      sw: "OPT si green card, na bahati nasibu ya H-1B ni vita tofauti. Panga miezi 10–14 kwa mitihani, maombi, na miadi ya ubalozi kabla ya ulaji wa Agosti.",
+      sw: "OPT si green card, na bahati nasibu ya H-1B ni vita tofauti. Panga miezi 10–14 kwa mitihani, maombi, na miadi ya ubalozi kabla ya kujiunga Agosti.",
     },
   },
   canada: {
@@ -153,7 +153,7 @@ export const destinationGuides: Record<DestinationSlug, DestinationGuide> = {
     },
     watch: {
       en: "Do not apply into a closed intake or a programme that no longer leads to a PGWP. We check whether you need a PAL/TAL, the provincial allocation, and the IRCC programme list before the application fee leaves the account.",
-      sw: "Usitumie maombi kwenye ulaji uliofungwa au programu isiyopelekea PGWP tena. Tunakagua kama unahitaji PAL/TAL, mgao wa jimbo, na orodha ya IRCC kabla ada ya maombi haijatoka akaunti.",
+      sw: "Usitumie maombi kwenye kipindi cha kujiunga kilichofungwa au programu isiyopelekea PGWP tena. Tunakagua kama unahitaji PAL/TAL, mgao wa jimbo, na orodha ya IRCC kabla ada ya maombi haijatoka akaunti.",
     },
   },
   australia: {
@@ -365,7 +365,7 @@ export const destinationGuides: Record<DestinationSlug, DestinationGuide> = {
     language: { en: "English master’s; German for many bachelor’s and daily life", sw: "Uzamili kwa Kiingereza; Kijerumani kwa shahada nyingi na maisha" },
     situation: {
       en: "Germany is the honest low-tuition option in Europe: many public universities charge little beyond a semester contribution, if you meet the academic bar and fund a blocked account (Sperrkonto). For student visas the current living-cost deposit is about €11,904 for twelve months (released monthly) — confirm the figure with the German mission before you transfer. English-taught master’s programmes are common; English-taught bachelor’s are fewer. We will not sell “free university” to a family whose student has no German and a weak maths file.\n\nTanzanian school and degree documents are usually checked through uni-assist and Anabin, not through an APS office (APS mainly covers China, India, and Vietnam). Winter semester (October) is the main intake; April is secondary.",
-      sw: "Ujerumani ni chaguo la kweli la ada ndogo Ulaya: vyuo vikuu vingi vya umma vinahtoza kidogo zaidi ya ada ya muhula, ukikidhi vigezo na kufadhili akaunti iliyozuiliwa (Sperrkonto). Kwa viza ya mwanafunzi dhamana ya sasa ya gharama za maisha ni karibu €11,904 kwa miezi kumi na miwili (inayotolewa kila mwezi) — thibitisha kiasi na ubalozi wa Ujerumani kabla ya kuhamisha. Programu za uzamili kwa Kiingereza ni za kawaida; shahada za kwanza kwa Kiingereza ni chache. Hatutauza “chuo bure” kwa familia ambayo mwanafunzi hana Kijerumani na faili dhaifu la hisabati.\n\nNyaraka za shule na digrii za Kitanzania mara nyingi hukaguliwa kupitia uni-assist na Anabin, si ofisi ya APS (APS inahusu hasa China, India, na Vietnam). Muhula wa baridi (Oktoba) ndio ulaji mkuu; Aprili ni wa pili.",
+      sw: "Ujerumani ni chaguo la kweli la ada ndogo Ulaya: vyuo vikuu vingi vya umma vinahtoza kidogo zaidi ya ada ya muhula, ukikidhi vigezo na kufadhili akaunti iliyozuiliwa (Sperrkonto). Kwa viza ya mwanafunzi dhamana ya sasa ya gharama za maisha ni karibu €11,904 kwa miezi kumi na miwili (inayotolewa kila mwezi) — thibitisha kiasi na ubalozi wa Ujerumani kabla ya kuhamisha. Programu za uzamili kwa Kiingereza ni za kawaida; shahada za kwanza kwa Kiingereza ni chache. Hatutauza “chuo bure” kwa familia ambayo mwanafunzi hana Kijerumani na faili dhaifu la hisabati.\n\nNyaraka za shule na digrii za Kitanzania mara nyingi hukaguliwa kupitia uni-assist na Anabin, si ofisi ya APS (APS inahusu hasa China, India, na Vietnam). Muhula wa baridi (Oktoba) ndio kipindi kikuu cha kujiunga; Aprili ni wa pili.",
     },
     opportunities: {
       en: [
@@ -610,7 +610,7 @@ export const destinationGuides: Record<DestinationSlug, DestinationGuide> = {
     },
     watch: {
       en: "Do not start in March for an April intake. MEXT and CoE calendars punish last-minute files.",
-      sw: "Usianze Machi kwa ulaji wa Aprili. Kalenda za MEXT na CoE zinaadhibu faili za dakika ya mwisho.",
+      sw: "Usianze Machi kwa kujiunga Aprili. Kalenda za MEXT na CoE zinaadhibu faili za dakika ya mwisho.",
     },
   },
 };

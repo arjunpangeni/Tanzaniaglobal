@@ -13,7 +13,7 @@ export const destinations = [
     budget: { usd: "18,000–32,000", tzs: "TZS 47–84m" },
     why: {
       en: "Familiar academic English, September and January intakes, and a Graduate Route families can plan around (length changes for applications from 2027).",
-      sw: "Kiingereza cha kitaaluma kinachojulikana, ulaji wa Septemba na Januari, na Graduate Route familia zinazoweza kupanga (urefu unabadilika kwa maombi kuanzia 2027).",
+      sw: "Kiingereza cha kitaaluma kinachojulikana, kujiunga Septemba na Januari, na Graduate Route ambayo familia zinaweza kupanga (muda wake unabadilika kwa maombi kuanzia 2027).",
     },
   },
   {
@@ -41,13 +41,13 @@ export const destinations = [
     hero: "https://images.unsplash.com/photo-1517935706615-2717063c2225?auto=format&fit=crop&w=1600&q=80",
     summary: {
       en: "Colleges and universities with co-op terms — popular with families who want a work-linked study path.",
-      sw: "Vyuo vya kozi na vyuo vikuu vyenye co-op — vinapendwa na familia zinazotaka njia ya kazi.",
+      sw: "Vyuo vya kati na vyuo vikuu vyenye co-op — vinapendwa na familia zinazotaka njia ya masomo inayounganishwa na kazi.",
     },
     fields: ["IT", "Nursing pathways", "Business", "Trades"],
     budget: { usd: "16,000–28,000", tzs: "TZS 42–74m" },
     why: {
       en: "We track provincial attestation (PAL/TAL), intake caps, and PGWP-eligible programmes so you do not apply into a closed window.",
-      sw: "Tunafuatilia uthibitisho wa mikoa (PAL/TAL), mipaka ya ulaji, na programu zinazostahili PGWP ili usiombe dirisha lililofungwa.",
+      sw: "Tunafuatilia uthibitisho wa mikoa (PAL/TAL), mipaka ya nafasi za kujiunga, na programu zinazostahili PGWP ili usiombe dirisha lililofungwa.",
     },
   },
   {
